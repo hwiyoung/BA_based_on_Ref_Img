@@ -1,0 +1,49 @@
+No. image points: 165
+No. images: 12
+No. ground points: 19
+Size of Ae matrix: 326 x 72
+Size of Ag matrix: 326 x 57
+Size of Ke matrix: 66 x 72
+Size of A matrix: 392 x 129
+Size of N matrix: 129 x 129
+Size of Nr matrix: 72 x 72
+Estimation time: 0.0767652
+No. Iteration: 5
+Threshold for Iteration: 1e-06
+Residuals
+ Step  0	       IP_x	       IP_y	       IP_a
+  Maximum:	    -0.3142	    -0.0758	    -0.3142
+  Minimum:	     0.1566	     0.1041	     0.1566
+  Average:	     0.0033	     0.0671	     0.0352
+  Std_dv.:	     0.0314	     0.0228	     0.0421
+  RMS    :	     0.0316	     0.0710	     0.0549
+ Step  1	       IP_x	       IP_y	       IP_a
+  Maximum:	    -0.2862	    -0.0124	    -0.2862
+  Minimum:	     0.1394	     0.0138	     0.1394
+  Average:	    -0.0004	    -0.0001	    -0.0002
+  Std_dv.:	     0.0276	     0.0042	     0.0197
+  RMS    :	     0.0276	     0.0042	     0.0197
+ Step  2	       IP_x	       IP_y	       IP_a
+  Maximum:	    -0.2864	    -0.0119	    -0.2864
+  Minimum:	     0.1393	     0.0136	     0.1393
+  Average:	    -0.0000	     0.0001	     0.0000
+  Std_dv.:	     0.0275	     0.0042	     0.0196
+  RMS    :	     0.0275	     0.0042	     0.0196
+ Step  3	       IP_x	       IP_y	       IP_a
+  Maximum:	    -0.2864	    -0.0119	    -0.2864
+  Minimum:	     0.1393	     0.0136	     0.1393
+  Average:	    -0.0000	     0.0001	     0.0000
+  Std_dv.:	     0.0275	     0.0042	     0.0196
+  RMS    :	     0.0275	     0.0042	     0.0196
+ Step  4	       IP_x	       IP_y	       IP_a
+  Maximum:	    -0.2864	    -0.0119	    -0.2864
+  Minimum:	     0.1393	     0.0136	     0.1393
+  Average:	    -0.0000	     0.0001	     0.0000
+  Std_dv.:	     0.0275	     0.0042	     0.0196
+  RMS    :	     0.0275	     0.0042	     0.0196
+ Step  5	       IP_x	       IP_y	       IP_a
+  Maximum:	    -0.2864	    -0.0119	    -0.2864
+  Minimum:	     0.1393	     0.0136	     0.1393
+  Average:	    -0.0000	     0.0001	     0.0000
+  Std_dv.:	     0.0275	     0.0042	     0.0196
+  RMS    :	     0.0275	     0.0042	     0.0196
