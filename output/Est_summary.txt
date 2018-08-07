@@ -7,7 +7,7 @@ Size of Ke matrix: 66 x 72
 Size of A matrix: 392 x 129
 Size of N matrix: 129 x 129
 Size of Nr matrix: 72 x 72
-Estimation time: 0.0767652
+Estimation time: 0.0964428
 No. Iteration: 5
 Threshold for Iteration: 1e-06
 Residuals

@@ -138,6 +138,7 @@ for k = 1:100
         P_nu = - ND(1:2,1) / ND(3);
         r = sqrt(P_nu(1)^2 + P_nu(2)^2);
         
+        % ******************************************************
         % Distortion correction
         radial = 1 + IO(6)*r^2 + IO(7)*r^4 + IO(8)*r^6 + IO(9)*r^8;
         x_d = P_nu(1) * radial + (IO(11) * (r^2 + 2*P_nu(1)^2) + 2*IO(10)*P_nu(1)*P_nu(2)) * (1 + IO(12)*r^2 + IO(13)*r^4);
@@ -149,6 +150,7 @@ for k = 1:100
         
         % For smartphone images
         F0_smart = IO_smart(1:2) - IO_smart(3) / ND(3) * ND(1:2,1);
+        % ******************************************************
         
         dND(:,1:3) = -R_e{imi};
         dND(:,4) = dRe_om{imi} * GC;
