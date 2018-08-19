@@ -17,11 +17,17 @@ Codes and data for bundle adjustment based on reference images
 * Est_summary.txt: A summary of bundle adjustments(BA)
 ***
 * Fig.1: Design Matrix
+  * ![Design Matrix](./fig1_Design_Matrix.png)
 * Fig.2: Normal Matrix
+  * ![Normal Matrix](./fig2_Normal_Matrix.png)
 * Fig.3: Reduced Normal Matrix
+  * ![Reduced Normal Matrix](./fig3_Reduced_Normal_Matrix.png)
 * Fig.4: Correlation Matrix
+  * ![Correlation Matrix](./fig4_Correlation_Matrix.png)
 * Fig.5: Residuals of IPs before BA
+  * ![Residuals of IPs before BA](./fig5_Residuals_of_IPs_before_BA.png)
 * Fig.6: Residuals of IPs after BA
+  * ![Residuals of IPs after BA](./fig6_Residuals_of_IPs_after_BA.png)
 ***
 
 ## How to execute
